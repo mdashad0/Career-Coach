@@ -136,7 +136,7 @@ export async function getAssessments() {
     where: { clerkUserId: userId },
   });
 
-  if (!user) throw new Error("User not found");
+  if (!user) return [];
 
   try {
     const assessments = await db.assessment.findMany({

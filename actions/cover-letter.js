@@ -86,7 +86,7 @@ export async function getCoverLetters() {
     where: { clerkUserId: userId },
   });
 
-  if (!user) throw new Error("User not found");
+  if (!user) return [];
 
   return await db.coverLetter.findMany({
     where: {
@@ -106,7 +106,7 @@ export async function getCoverLetter(id) {
     where: { clerkUserId: userId },
   });
 
-  if (!user) throw new Error("User not found");
+  if (!user) return null;
 
   return await db.coverLetter.findUnique({
     where: {

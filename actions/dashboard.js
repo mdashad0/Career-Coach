@@ -125,7 +125,7 @@ export async function getIndustryInsights() {
     include: { industryInsight: true },
   });
 
-  if (!user) throw new Error("User not found");
+  if (!user) return null;
 
   // Validate industry
   const industry = user.industry;

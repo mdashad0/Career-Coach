@@ -6,7 +6,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import { revalidatePath } from "next/cache";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash-lite" });
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 export async function saveResume(content) {
   const { userId } = await auth();
@@ -48,7 +48,7 @@ export async function getResume() {
     where: { clerkUserId: userId },
   });
 
-  if (!user) throw new Error("User not found");
+  if (!user) return null;
 
   return await db.resume.findUnique({
     where: {
