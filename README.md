@@ -417,13 +417,7 @@ We welcome contributions! Please follow these steps:
 - Write meaningful commit messages
 - Add comments for complex logic
 
----
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 Author
 
