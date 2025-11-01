@@ -10,7 +10,7 @@ const imageRef= useRef(null);
 
 useEffect(() => {
     const imageElement = imageRef.current;
-
+    
     const handleScroll = () => {
     const scrollPosition = window.scrollY;
     const scrollThreshold = 100;
@@ -37,7 +37,6 @@ useEffect(() => {
                     AI-Powered tools for job Success.
                 </p>
             </div>
-
             <div className='flex justify-center space-x-4'>
                 <Link href='/dashboard'>
                     <Button size="lg" className="px-8">
@@ -50,7 +49,6 @@ useEffect(() => {
                     </Button>
                 </Link>
             </div>
-
             <div className='hero-image-wrapper mt-5 md:mt-0'>
                 <div ref={imageRef} className='hero-image'>
                     <Image 
