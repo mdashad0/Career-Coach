@@ -398,7 +398,7 @@ All API interactions use Next.js Server Actions:
 // View detailed results and tips
 ```
 
----
+----
 
 ## 🤝 Contributing
 
@@ -416,7 +416,6 @@ We welcome contributions! Please follow these steps:
 - Use Prettier for formatting
 - Write meaningful commit messages
 - Add comments for complex logic
-
 
 
 ## 👨‍💻 Author
