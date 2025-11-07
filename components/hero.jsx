@@ -17,7 +17,7 @@ useEffect(() => {
 
     if(scrollPosition > scrollThreshold){
         imageElement.classList.add("scrolled");
-    }
+    };
     };
 
     window.addEventListener("scroll",handleScroll);
