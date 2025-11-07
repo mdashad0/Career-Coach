@@ -64,5 +64,5 @@ useEffect(() => {
         </div>
     </section>
     );
-}
+};
 export default HeroSection
