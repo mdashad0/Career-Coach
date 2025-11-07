@@ -93,7 +93,7 @@ const Header = async () => {
             </SignInButton>
           </SignedOut>
 
-          {/* User Profile */}
+          {/* User Profiles */}
           <SignedIn>
             <UserButton
               appearance={{
