@@ -21,7 +21,7 @@ useEffect(() => {
     };
 
     window.addEventListener("scroll",handleScroll);
-},[])
+},[]);
 
     return( 
     <section className='w-full pt-36 md:pt-48 pb-10'>
