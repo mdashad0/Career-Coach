@@ -53,7 +53,7 @@ bun dev
 
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## 🌟 Overview
+## 🌟 Overview:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
