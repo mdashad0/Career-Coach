@@ -1,7 +1,6 @@
 # SensAI - AI Career Coach 🚀This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
-
 [![Next.js](https://img.shields.io/badge/Next.js-15.5.6-black)](https://nextjs.org/)## Getting Started
 
 [![React](https://img.shields.io/badge/React-19-blue)](https://reactjs.org/)
