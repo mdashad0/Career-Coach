@@ -21,5 +21,5 @@ export const howItWorks = [
     title: "Track Your Progress",
     description: "Monitor improvements with detailed performance analytics",
     icon: <LineChart className="w-8 h-8 text-primary" />,
-  },
+  },,
 ];
