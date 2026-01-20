@@ -6,6 +6,7 @@ export const howItWorks = [
     description: "Share your industry and expertise for personalized guidance",
     icon: <UserPlus className="w-8 h-8 text-primary" />,
   },
+  
   {
     title: "Craft Your Documents",
     description: "Create ATS-optimized resumes and compelling cover letters",
