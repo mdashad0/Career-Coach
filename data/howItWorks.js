@@ -19,6 +19,7 @@ export const howItWorks = [
       "Practice with AI-powered mock interviews tailored to your role",
     icon: <Users className="w-8 h-8 text-primary" />,
   },
+  
   {
     title: "Track Your Progress",
     description: "Monitor improvements with detailed performance analytics",
