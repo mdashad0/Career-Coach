@@ -12,6 +12,7 @@ export const howItWorks = [
     description: "Create ATS-optimized resumes and compelling cover letters",
     icon: <FileEdit className="w-8 h-8 text-primary" />,
   },
+  
   {
     title: "Prepare for Interviews",
     description:
