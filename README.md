@@ -203,7 +203,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 ---
 
-## 🔐 Environment Variables
+## 🔐 Environment Variables:
 
 | Variable | Description | Required |
 |----------|-------------|----------|
