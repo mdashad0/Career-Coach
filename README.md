@@ -417,7 +417,7 @@ We welcome contributions! Please follow these steps:
 - Add comments for complex logic
 
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 
 **Md Ashad**
 
