@@ -111,7 +111,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 ### Frontend
 - **Next.js 15.5.6** - React framework with App Router
