@@ -349,7 +349,7 @@ Real-time data visualization showing:
 
 ## 🔌 API Routes
 
-### Server Actions
+### Server Actions:
 
 All API interactions use Next.js Server Actions:
 
