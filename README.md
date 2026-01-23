@@ -347,7 +347,7 @@ Real-time data visualization showing:
 
 ---
 
-## 🔌 API Routes
+## 🔌 API Routes:
 
 ### Server Actions:
 
