@@ -359,7 +359,7 @@ All API interactions use Next.js Server Actions:
 - `generateAIInsights(industry)` - Get industry insights
 - `getIndustryInsights()` - Fetch saved insights
 
-### Inngest Background Jobs
+### Inngest Background Jobs:
 
 - Weekly industry insights updates
 - Automated data refresh
