@@ -129,7 +129,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 - **PostgreSQL** - Primary database (Neon)
 - **Clerk** - Authentication & user management
 
-### AI & External Services
+### AI & External Services:
 - **Google Gemini AI** - Content generation
 - **Inngest** - Background job processing
 - **html2pdf.js** - PDF generation
