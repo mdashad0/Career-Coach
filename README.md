@@ -123,7 +123,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 - **React Hook Form** - Form management
 - **Zod** - Schema validation
 
-### Backend
+### Backend:
 - **Next.js Server Actions** - Server-side API handlers
 - **Prisma ORM** - Database toolkit
 - **PostgreSQL** - Primary database (Neon)
