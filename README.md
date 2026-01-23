@@ -326,7 +326,7 @@ This information is used to personalize all AI-generated content.
 3. Edit the generated content in markdown
 4. Save or export as needed
 
-### 4. Interview Preparation
+### 4. Interview Preparation:
 
 **Features:**
 - AI-generated interview questions based on your industry
