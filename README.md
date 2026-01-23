@@ -442,7 +442,7 @@ For support, email support@sensai.com or open an issue on GitHub.
 
 ---
 
-## 🗺 Roadmap
+## 🗺 Roadmap:
 
 - [ ] Multi-language support
 - [ ] LinkedIn integration
