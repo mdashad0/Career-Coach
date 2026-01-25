@@ -57,7 +57,7 @@ bun dev
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-**SensAI** is an AI-powered career development platform designed to help professionals accelerate their career growth. It combines cutting-edge AI technology with industry-specific insights to provide personalized career guidance, intelligent resume building, adaptive interview preparation, and AI-generated cover letters.
+**SensAI** is an AI-powered career development platform designed to help professionals accelerate their career growth. It combines cutting-edge AI technology with industry-specific insights to provide personalized career guidance, intelligent resume building, adaptive interview preparation, and AI-generated cover letters..
 
 ## Deploy on Vercel:
 
