@@ -240,7 +240,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
    DATABASE_URL="postgresql://postgres:password@localhost:5432/sensai"
    ```
 
-### Database Schema
+### Database Schema:
 
 The project uses Prisma with the following main models:
 
