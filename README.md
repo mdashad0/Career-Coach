@@ -150,7 +150,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 - Clerk account for authentication
 - Google Gemini API key
 
-### Installation
+### Installation:
 
 1. **Clone the repository**
    ```bash
