@@ -11,7 +11,7 @@
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)](https://tailwindcss.com/)```bash
 
-npm run dev
+npm run dev 
 
 > Your intelligent AI-powered career development platform that helps you advance your professional journey with personalized insights, resume building, interview preparation, and more.# or
 
