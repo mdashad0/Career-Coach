@@ -34,7 +34,7 @@ bun dev
 - [Getting Started](#getting-started)
 
 - [Environment Variables](#environment-variables)You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
+ 
 - [Database Setup](#database-setup)
 
 - [Project Structure](#project-structure)This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
