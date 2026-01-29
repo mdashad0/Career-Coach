@@ -19,7 +19,7 @@ yarn dev
 
 ---# or
 
-pnpm dev
+pnpm dev 
 
 ## 📋 Table of Contents# or
 
