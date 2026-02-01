@@ -104,7 +104,7 @@ const Header = async () => {
                   userButtonPopoverCard: 'shadow-xl',
                   userPreviewMainIdentifier: 'font-semibold',
                 },
-              }};
+              }}
               afterSignOutUrl='/'
             />
           </SignedIn>
